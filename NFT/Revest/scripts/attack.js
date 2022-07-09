@@ -10,15 +10,15 @@ async function main() {
 
   await exp.deployed();
 
-  console.log("🧛 Exploiter deployed to:", exp.address);
+  console.log("[#] 🧛 Exploiter deployed to:", exp.address);
 
   const cash = await exp.nobodies()
-  console.log("🥷  The attacker's balance before the attack:", cash.toString());
+  console.log("[#]🥷  The attacker's balance before the attack:", cash.toString());
 
   await exp.trigger()
 
   const money = await exp.nobodies()
-  console.log("🧛 The attacker's balance After the attack:", money.toString());
+  console.log("[#] 🧛 The attacker's balance After the attack:", money.toString());
 }
 
 main()

@@ -8,7 +8,7 @@ Set up the environment variable for $ALCHEMY_KEY
 $  git clone https://github.com/SupremacyCA/Web3.0-Rekt
 $  export $ALCHEMY_KEY = xxxxx
 $  cd ./Revest
-$  npm install
+$  yarn
 
 then 
 
