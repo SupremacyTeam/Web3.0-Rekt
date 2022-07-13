@@ -1,4 +1,4 @@
-# NBAxNFT's Logic Issue PoC
+# Omni Protocol Incident PoC
 
 ## How to run
 
