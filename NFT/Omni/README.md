@@ -26,3 +26,7 @@ $ /Users/WangYi/Projects/PoCs/Web3.0-Rekt/NFT/Omni/node_modules/.bin/hardhat run
 ```
 
 ---
+
+## Link
+
+- [https://twitter.com/Supremacy_CA/status/1547069844977520640](https://twitter.com/Supremacy_CA/status/1547069844977520640)
